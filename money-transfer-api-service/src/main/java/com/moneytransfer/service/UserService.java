@@ -11,7 +11,11 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 import java.util.List;
 
-
+/**
+ * This class serves as the Service for User related activities like Search, Create, Update or Delete Users.
+ * @author Romi Singhaniya
+ *
+ */
 @Path("/user")
 @Produces(MediaType.APPLICATION_JSON)
 public class UserService {

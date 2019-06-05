@@ -1,5 +1,10 @@
 package com.moneytransfer.exception;
 
+/**
+ * Custom Exception Class
+ * @author Romi Singhaniya
+ *
+ */
 public class CustomException extends Exception {
 
 	private static final long serialVersionUID = 1L;

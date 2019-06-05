@@ -4,6 +4,11 @@ package com.moneytransfer.model;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+/**
+ * This is a model class for holding User Object data
+ * @author Romi Singhaniya
+ *
+ */
 public class User {
 
     @JsonIgnore

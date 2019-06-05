@@ -7,6 +7,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
+/**
+ * This is a utility class with methods for Loading and Reading Config files
+ * @author Romi Singhaniya
+ *
+ */
 
 public class Utils {
 

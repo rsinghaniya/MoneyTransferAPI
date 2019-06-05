@@ -12,6 +12,11 @@ import com.moneytransfer.exception.CustomException;
 import com.moneytransfer.model.MoneyUtil;
 import com.moneytransfer.model.UserTransaction;
 
+/**
+ * This class acts as service for Transfer Funds transactions
+ * @author Romi Singhaniya
+ *
+ */
 @Path("/transaction")
 @Produces(MediaType.APPLICATION_JSON)
 public class TransactionService {

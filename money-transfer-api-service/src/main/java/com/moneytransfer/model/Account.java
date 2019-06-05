@@ -5,6 +5,11 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.math.BigDecimal;
 
+/**
+ * Model class to hold data for Account Object
+ * @author Romi Singhaniya
+ *
+ */
 public class Account {
 
     @JsonIgnore

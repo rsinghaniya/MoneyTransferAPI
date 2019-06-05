@@ -15,7 +15,9 @@ import java.math.RoundingMode;
 import java.util.List;
 
 /**
- * Account Service 
+ * This class acts as service for Accounts like getting accounts, creating acount, balance, withdraw and deposit.
+ * @author Romi Singhaniya
+ *
  */
 @Path("/account")
 @Produces(MediaType.APPLICATION_JSON)
